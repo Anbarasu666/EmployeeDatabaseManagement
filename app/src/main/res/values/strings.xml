@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Employee Dababase</string>
+    <string name="edit_employee_details">Edit Employee Details</string>
+    <string name="enter_name">Enter Name</string>
+</resources>
